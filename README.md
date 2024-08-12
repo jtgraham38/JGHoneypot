@@ -19,4 +19,3 @@ To use the features of this script, all you need to do is apply the *jg_honeypot
 ```
 
 Note that if you inspect a form protected by jg_honeypot.js, the name atttributes of your original inputs will be changed.  This is normal, it is jg_honeypot.js masking the true names of those inputs to bots so that the honeypot inputs look more appealing to them.  Upon submitting the form, jg_honeypot.js will automatically rectify the input names so your form works as expected.
-# JGHoneypot
