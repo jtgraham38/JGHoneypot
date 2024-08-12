@@ -1,5 +1,5 @@
 {
-  "name": "jg_honeypot",
+  "name": "jg_honeypot_form",
   "version": "1.0.0",
   "description": "A utility script that makes it easy to create honeypot inputs for capturing bot form submissions.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jtgraham38/JGHoneypot.git"
+    "url": "git+https://github.com/jtgraham38/JGHoneypotForm.git"
   },
   "keywords": [
     "honeypot",
@@ -19,7 +19,7 @@
   "author": "Jacob Graham",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jtgraham38/JGHoneypot/issues"
+    "url": "https://github.com/jtgraham38/JGHoneypotForm/issues"
   },
-  "homepage": "https://github.com/jtgraham38/JGHoneypot#readme"
+  "homepage": "https://github.com/jtgraham38/JGHoneypotForm#readme"
 }
